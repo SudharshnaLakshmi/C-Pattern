@@ -1,0 +1,15 @@
+D:\C#\C-Pattern\EX3\bin\Debug\net6.0\EX3.exe
+D:\C#\C-Pattern\EX3\bin\Debug\net6.0\EX3.deps.json
+D:\C#\C-Pattern\EX3\bin\Debug\net6.0\EX3.runtimeconfig.json
+D:\C#\C-Pattern\EX3\bin\Debug\net6.0\EX3.dll
+D:\C#\C-Pattern\EX3\bin\Debug\net6.0\EX3.pdb
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\EX3.csproj.AssemblyReference.cache
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\EX3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\EX3.AssemblyInfoInputs.cache
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\EX3.AssemblyInfo.cs
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\EX3.csproj.CoreCompileInputs.cache
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\EX3.dll
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\refint\EX3.dll
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\EX3.pdb
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\EX3.genruntimeconfig.cache
+D:\C#\C-Pattern\EX3\obj\Debug\net6.0\ref\EX3.dll
