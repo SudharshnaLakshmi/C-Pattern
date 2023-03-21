@@ -11,7 +11,7 @@ Microsoft Visual Studio 2022
 2. Get the limit from the user.
 3. Use for loop to print the rows , columns and space.
 4. Use if-else condition inside the loop to print the values.
-5. Use val = val * (i - j + 1) / j to print the inner value.
+5. Use c = c * (i - j + 1) / j to print the inner value.
 6. Using Console.write print the Pascal's triangle.
 7. End the program.
 
